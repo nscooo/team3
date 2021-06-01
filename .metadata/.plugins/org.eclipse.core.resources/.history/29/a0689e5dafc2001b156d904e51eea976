@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<<<<<<< HEAD:src/main/webapp/a.html
+<div>
+<h1>pull master</h1>
+</div>
+=======
+<h1>hello ezen 3team</h1>
+>>>>>>> 2873dc04858ee4c1897d2d4699b8482dffed6fce:src/main/webapp/sang.html
+</body>
+</html>
